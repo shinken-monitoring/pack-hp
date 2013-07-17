@@ -4,7 +4,7 @@
         "version": "1.4",
         "homepage": "https://github.com/shinken-monitoring/pack-hp",
         "author": "Jean Gabes",
-        "description": "Checks for HP hardware ILO/Insight servers and blade chassis",
+        "description": "Based pack for all HP related checks",
         "contributors": [
           {
                 "name": "Jean Gabes",
@@ -18,8 +18,7 @@
         "repository": "https://github.com/shinken-monitoring/pack-hp",
         "keywords": [
           "pack",
-          "hp-asm",
-	  "hp-blade-chassis"
+          "hp"
         ],
         "dependencies": {
           "shinken": ">=1.4"
